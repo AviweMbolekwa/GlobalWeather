@@ -5,7 +5,7 @@ It's a weather forecast application that is more detailed relative to other weat
 Client: HTML, CSS, JavaScript, API
 
 # Live webite
-https://globalweatherio.netlify.app/weatherio/
+https://globalweatherio.netlify.app/globalweather
 
 # Run Locally
 Clone the project
