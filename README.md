@@ -1,4 +1,4 @@
-# weatherio
+# GlobalWeather
 It's a weather forecast application that is more detailed relative to other weather web applications.
 
 # Tech Stack
